@@ -10,7 +10,7 @@ Unlocks the nearest of 10 doors/gates/elevators to your current location in one 
 2. Select the web browser or file manager you plan to use, then turn on 'Allow from this source'
 3. Download easy-brivo-unlock-v1.apk. It should install under the name 'Brivo Location Link' with a generic android icon
 4. Enable **location permissions** in Settings -> Apps -> 'See all apps' -> Brivo Location Link -> Permissions. Press 'Allow while using the app'
-5. Enable **accessibility permissions** in Settings -> Accessibility -> under 'Downloaded apps' Brivo Location Link. Turn on 'Use Brivo Location Link'
+5. Enable **accessibility permissions** in Settings -> Accessibility -> under 'Downloaded apps' Brivo Location Link. Turn on 'Use Brivo Location Link'  
        - if the toggle won't turn on / does nothing: go to Settings -> Apps -> Brivo Location Link -> tap the ⋮ menu (top right) -> 'Allow restricted settings', then    try step 5 again
 
 should be good to go! feel free to DM me on groupme if you have any setup questions or find a bug
